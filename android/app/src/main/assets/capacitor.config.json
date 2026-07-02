@@ -1,0 +1,9 @@
+{
+	"appId": "com.seoextractor.app",
+	"appName": "SEO & Schema Extractor",
+	"webDir": "dist",
+	"server": {
+		"url": "https://ais-pre-stkzwzy63o5vehiigfepm4-127509293347.europe-west3.run.app",
+		"cleartext": true
+	}
+}

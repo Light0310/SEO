@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SEO &amp; Schema Extractor</string>
+    <string name="title_activity_main">SEO &amp; Schema Extractor</string>
+    <string name="package_name">com.seoextractor.app</string>
+    <string name="custom_url_scheme">com.seoextractor.app</string>
+</resources>

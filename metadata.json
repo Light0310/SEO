@@ -1,0 +1,6 @@
+{
+  "name": "SEO & Schema JSON-LD Extractor",
+  "description": "An advanced tool to extract JSON-LD schemas, analyze keyword density, check page SEO, and generate reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
