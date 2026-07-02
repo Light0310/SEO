@@ -1,0 +1,18 @@
+# Global Git Attributes configuration
+# Force LF line endings for shell scripts and gradlew
+*.sh text eol=lf
+gradlew text eol=lf
+
+# Mark binary files to prevent corruption during git checkout/push
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.flac binary
+*.pdf binary
